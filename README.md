@@ -18,6 +18,10 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 - <img src="https://go.dev/images/go-logo-white.svg" width="64px">
 - <img src="https://www.php.net/images/logos/php-logo.svg" width="64px">
+- <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/HTML5.svg" width="64px">
+- <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/CSS3.svg" width="64px">
+
+- 
 - 👯 CSS, HTML, JavaScript
 - 😄 x
 <p></p>
