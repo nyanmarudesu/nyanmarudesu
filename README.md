@@ -15,14 +15,14 @@ I'm 28 years old. I've worked for Amazon OpsTechIT and now I'm doing an IT appre
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## 🖥 Programming Skills:
-
+<cemter>
 <img src="https://www.php.net/images/logos/php-logo.svg" width="32px">
 <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/HTML5.svg" width="32px">
 <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/NodeJS.svg" width="32px">
 <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/ExpressJS.svg" width="32px">
 <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/Python.svg" width="32px">
 <img src="https://khanhtranngoccva.github.io/portfolio/img/proficiencyIcons/CSS3.svg" width="32px">
-
+</center>
 - 
 - 👯 CSS, HTML, JavaScript
 - 😄 x
