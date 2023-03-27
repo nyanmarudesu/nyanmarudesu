@@ -14,8 +14,7 @@ I'm 28 years old. I've worked for Amazon OpsTechIT and now I'm doing an IT appre
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-## About me:
-<img align="right" src="https://github.com/YasminAwad/YasminAwad/blob/main/imgs/IMG_2528.PNG" width="350" /> 
+## Programming Skills:
 
 - 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing
 - 🌱 I’m currently learning: Japanese, UX Design
