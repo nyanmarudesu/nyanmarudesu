@@ -2,7 +2,7 @@
 <body>
 <div>
 
-I am a 25yo girl, currently attending the Master's Degree in Computer Science Engineering at Politecnico di Milano University. I am participating in a Double Degree program with Doshisha University in Japan. I got my Bachelor's Degree in Computer Science Engineering in 2020 at the University of Florence.
+I'm 28 years old. I've worked for Amazon OpsTechIT and now I'm doing an IT apprenticeship in Germany. My main goal is to learn about topics like Docker, networking, programming and server administration, and to learn as much as possible about the DevOps profession.
 <img align="right" src="https://media.tenor.com/a9CamLQyQg0AAAAC/music-bussin.gif" width="100px">
 </div>
 </body>
