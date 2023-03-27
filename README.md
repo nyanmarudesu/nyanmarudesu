@@ -16,10 +16,10 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## 🖥 Programming Skills:
 
-- 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing
-- 🌱 I’m currently learning: Japanese, UX Design
-- 👯 I’m looking for Japanese learners!
-- 😄 Pronouns: she/her
+- 🔭 GoLang
+- 🌱 PHP
+- 👯 CSS, HTML, JavaScript
+- 😄 x
 <p></p>
 <p></p>
 <p align="left" style="font-size:50px;"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-cool-version-paint-brush-colours.png" width="35px"><a href="https://www.instagram.com/yayatteyonde/" style="font-size:100px;">yayatteyonde</a></p>
