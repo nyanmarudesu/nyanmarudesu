@@ -16,8 +16,8 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## 🖥 Programming Skills:
 
-- <img src="https://go.dev/images/go-logo-white.svg" width="100px">
-- 🌱 PHP
+- <img src="https://go.dev/images/go-logo-white.svg" width="64px">
+- <img src="https://www.php.net/images/logos/php-logo.svg" width="64px">
 - 👯 CSS, HTML, JavaScript
 - 😄 x
 <p></p>
