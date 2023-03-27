@@ -14,7 +14,7 @@ I'm 28 years old. I've worked for Amazon OpsTechIT and now I'm doing an IT appre
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-## Programming Skills:
+## 🖥 Programming Skills:
 
 - 🔭 I’m currently working on my new Master Thesis on Nataral Language Processing
 - 🌱 I’m currently learning: Japanese, UX Design
