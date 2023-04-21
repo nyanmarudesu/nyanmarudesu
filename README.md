@@ -5,7 +5,7 @@ Ultimate Developer
 ------------------
 
 * 🌍  I'm based in 🇩🇪 Germany
-* 🖥️  See my portfolio at [博客](http://www.ixiqin.com)
+* 🖥️  See my portfolio at [still wroking on...](#)
 * ✉️  You can contact me at [webmaster@neevot.eu](mailto:webmaster@neevot.eu)
 * 🚀  I'm currently working on [neevot.eu](https://neevot.eu)
 * 🧠  I'm learning GoLang
